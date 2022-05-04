@@ -1,0 +1,21 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "TS类型体操挑战",
+  "main": "index.js",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScoutYin/type-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScoutYin/type-challenges/issues"
+  },
+  "homepage": "https://github.com/ScoutYin/type-challenges#readme"
+}

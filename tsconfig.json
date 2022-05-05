@@ -13,5 +13,6 @@
     "noImplicitReturns": true,
     "allowJs": false
   },
+  "include": ["questions/**/*.ts"],
   "exclude": ["node_modules"]
 }
